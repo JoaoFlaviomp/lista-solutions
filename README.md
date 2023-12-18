@@ -1,6 +1,6 @@
 # Compilar e Executar o Código Lista simplesmente encadeada:
 
-1. Abra o Editor de Texto (por exemplo, Bloco de Notas) e copie o código AVL fornecido.
+1. Abra o Editor de Texto (por exemplo, Bloco de Notas) e copie o código da lista simplesmente encadeada fornecido.
 2. Salve o arquivo com a extensão `.c`, por exemplo, `simplesmente-encadeada.c`.
 3. Abra o Prompt de Comando (`cmd`) no diretório onde o arquivo `simplesmente-encadeada.c` está salvo.
 4. Execute o seguinte comando para compilar o código AVL:
